@@ -1,3 +1,4 @@
-🌷 "A vida é uma coisa preciosa, precisamos ser cuidadosos com ela".
- <td align="center"><a href="http://www.ghibli.jp/gallery/ponyo004.jpg"><img src="http://www.ghibli.jp/gallery/ponyo004.jpg"  alt=""/><br /><sub><b></b></sub></a></td>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=rose)
+
+![image](https://github.com/user-attachments/assets/c1a05948-2f38-4580-a39a-1c575e176d5c)
 

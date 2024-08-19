@@ -1,4 +1,6 @@
 🌷Olá mundo, seja muito bem-vindo!
+🎒 Estudante disciplina Pensamento Computacional
+📍Pato Branco-Paraná
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Lara-Rodrigues&show_icons=true&theme=buefy)
 

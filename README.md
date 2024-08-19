@@ -1,4 +1,4 @@
-🌷Olá mundo, sou a Ana, seja muito bem-vindo!
+🌷Olá mundo, seja muito bem-vindo!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ana-Lara-Rodrigues&show_icons=true&theme=rose)
 
